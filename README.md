@@ -7,3 +7,15 @@ el archivo batch ya esta creado, asique sientete libre de descargar el instalado
 
 You can suggest an option for the batch if you want
 Puedes sugerir una opcion para añadirla al batch
+
+--CHANGELOG--
+
+v1.0 alpha:
+
+initial script launch, fix issue regarding antivirus and changed scripts location from C:\Windows\System32 into C:\BatMenu
+
+
+
+v1.1 alpha:
+
+Fixed directory location, that was wrong
