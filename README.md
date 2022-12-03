@@ -18,4 +18,4 @@ initial script launch, fix issue regarding antivirus and changed scripts locatio
 
 v1.1 alpha:
 
-Fixed directory location, that was wrong
+Fixed directory location, that was wrong. Fix langiage translation on the ENG version. Fix the fixable things ;)
