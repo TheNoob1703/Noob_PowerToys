@@ -22,3 +22,10 @@ initial script launch, fix issue regarding antivirus and changed scripts locatio
 v1.1 alpha:
 
 Fixed directory location, that was wrong. Fix language translation on the ENG version. Fix the fixable things ;)
+
+
+--CHANGELOG CONTIG INSTALLER--
+
+v1.0:
+
+First release, nothing to fix, just update 
