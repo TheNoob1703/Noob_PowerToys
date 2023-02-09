@@ -1,5 +1,5 @@
 # Noob_PowerToys
-A bunch of tools I create myself for keeping yur computer safe and fresh ;)
+A bunch of tools I create myself for keeping your computer safe and fresh ;)
 Un montón de herramientas que creo yo mismo para mantener su computadora segura y fresca ;)
 
 WARNING: DISABLE ANY ANTIVIRUS, INCLUDING THE STUPID WINDOWS DEFENDER THING
@@ -21,4 +21,4 @@ initial script launch, fix issue regarding antivirus and changed scripts locatio
 
 v1.1 alpha:
 
-Fixed directory location, that was wrong. Fix langiage translation on the ENG version. Fix the fixable things ;)
+Fixed directory location, that was wrong. Fix language translation on the ENG version. Fix the fixable things ;)
