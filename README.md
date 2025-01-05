@@ -29,3 +29,12 @@ Fixed directory location, that was wrong. Fix language translation on the ENG ve
 v1.0:
 
 First release, nothing to fix, just update 
+
+v1.666
+
+- Fully rebuilt script, no external .bat that casued antivirus false positives anyways.
+- All integrated, with mesages and stuff.
+- Removed Contig tool (for now).
+- Added more options, like repair windows using SFC tool, view or delete DNS cache, kill MIcrosoft recall.
+
+More tools, and Contig coming soon.
