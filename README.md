@@ -11,11 +11,16 @@ el archivo batch ya esta creado, asique sientete libre de descargar el instalado
 You can suggest an option for the batch if you want
 Puedes sugerir una opcion para añadirla al batch
 
+NOTA: LAS VERSIONES vx.xxB SON BETAS NO LANZADAS POR SEGURIDAD Y POR ESTABILIDAD, SOLO LANZARÉ LA VERSION ESTABLE O ALPHA.
+NOTES: VERSIONS vx.xxB ARE UNRELEASED BETAS DUE TO SECURITY AND STABILITY, I'M ONLY RELEASING STABLE AND ALPHA VERSIONS.
+
 --CHANGELOG--
 
 v1.0 alpha:
 
-initial script launch, fix issue regarding antivirus and changed scripts location from C:\Windows\System32 into C:\BatMenu
+initial script launch, fix issue regarding antivirus and changed scripts location* from C:\Windows\System32 into C:\BatMenu
+
+*System32 Is not a safe place for scripts.
 
 
 
@@ -36,5 +41,11 @@ v1.666
 - All integrated, with mesages and stuff.
 - Removed Contig tool (for now).
 - Added more options, like repair windows using SFC tool, view or delete DNS cache, kill MIcrosoft recall.
+
+V1.7B Beta WIP (NOT RELEASED)
+
+- Improving and renaming SSD Health Tool (ported from aikoncwd-win10-script original script)
+- Improving some things from the aspect of the script.
+- Adding more tools, but into another beta maybe.
 
 More tools, and Contig coming soon.
